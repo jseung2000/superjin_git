@@ -16,3 +16,8 @@ int main() {
 	cout << "!!!Hello Seung Jin!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
+
+void test1
+{
+	return;
+}
