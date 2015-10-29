@@ -19,5 +19,6 @@ int main() {
 
 void test1
 {
+	cout << "!!!Test1!!!" << endl; // prints !!!Hello World!!!
 	return;
 }
