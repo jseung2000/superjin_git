@@ -19,3 +19,9 @@ int main() {
 	cout << "!!!Hello Master3!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
+
+void test1
+{
+	cout << "!!!Test1!!!" << endl; // prints !!!Hello World!!!
+	return;
+}
