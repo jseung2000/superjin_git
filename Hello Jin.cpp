@@ -21,6 +21,7 @@ int main() {
 	cout << "!!!Hello Test2!!!" << endl; // prints !!!Hello World!!!
 	zcout << "!!!Hello Master5!!!" << endl; // prints !!!Hello World!!!
 	zcout << "!!!Hello Master6!!!" << endl; // prints !!!Hello World!!!
+	zcout << "!!!Hello Master7!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
 
