@@ -14,5 +14,6 @@ int main() {
 	cout << "!!!Hello Jin!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello Seung!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello Seung Jin!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Hello Master!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
