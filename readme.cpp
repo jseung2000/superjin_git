@@ -18,6 +18,9 @@ using namespace std;
 
 int main() {
 	cout << "!!!Read me!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Read me Again!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Again!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Again!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
 
